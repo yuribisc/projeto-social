@@ -35,12 +35,12 @@ section#phone{
 
 iframe#tela{
     position: relative;
-    top: 50%;
-    left: 50%;
+    top: 316px;
+    left: 156px;
     transform: translate(-50%, -50%);
 
-    height: 472px;
-    width: 266px;
+    height: 473px;
+    width: 269px;
 }
 
 section#social{
